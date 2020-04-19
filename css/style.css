@@ -6568,7 +6568,8 @@ button.bg-dark:focus {
 
 .mb-0,
 .my-0 {
-  margin-bottom: 0 !important; }
+  margin-bottom: 0 !important; 
+  text-align: justify;}
 
 .ml-0,
 .mx-0 {
